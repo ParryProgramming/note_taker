@@ -15,5 +15,5 @@ This is a note taker app that enables users to type or write on their devices ju
 
 ## Links
 
-For access to deployed website [Click Here](https://parryprogramming.github.io/personal_portfolio/)
+For access to deployed website [Click Here](https://note-taker-s9jn.onrender.com/)
 
